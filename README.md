@@ -18,6 +18,7 @@ $ pip install python-dotenv
 STRIPE_SECRET_KEY = <секретный ключ вашего stripe>
 STRIPE_PUBLISHABLE_KEY = <публичный ключ вашего stripe>
 ```
+You can find the keys in your personal account https://dashboard.stripe.com/
 - Install Library stripe
 ```
 $ pip install stripe
