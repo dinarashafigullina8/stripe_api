@@ -36,6 +36,7 @@ $ python3 manage.py migrate
 - Export productc with columns id, Name, Description
 - Merge files into one CSV-file by Product_ID
 - Add file to project folder
+- Run command 
 
 ## Now you can run server
 ```
